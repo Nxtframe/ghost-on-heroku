@@ -8,7 +8,7 @@
   },
   "success_url": "/ghost",
   "addons": [
-    "postgresql"
+    "heroku-postgresql"
   ],
   "env": {
     "APP_PUBLIC_URL": {
