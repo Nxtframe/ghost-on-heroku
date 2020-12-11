@@ -8,7 +8,7 @@
   },
   "success_url": "/ghost",
   "addons": [
-    "postgres"
+    "postgresql"
   ],
   "env": {
     "APP_PUBLIC_URL": {
