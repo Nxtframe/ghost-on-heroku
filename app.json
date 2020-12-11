@@ -8,9 +8,7 @@
   },
   "success_url": "/ghost",
   "addons": [
-    "jawsdb",
-    "mailgun",
-    "cloudinary"
+    "postgres"
   ],
   "env": {
     "APP_PUBLIC_URL": {
